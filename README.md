@@ -1,0 +1,1 @@
+# panorama-photo-collage
