@@ -45,6 +45,20 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Giao diện
+1. Home
+![alt text](static/home.png)
+2. Upload ảnh
+![alt text](static/upload_image.png)
+3. Phân tích keypoint và matches
+![alt text](static/div.png)
+![alt text](static/evidence.png)
+
+4. Ghép ảnh Panorama
+![alt text](static/header.png)
+![alt text](static/panorama.png)
+![alt text](static/detail.png)
+
 ## Hướng dẫn sử dụng
 
 1. **Upload ảnh**: 
